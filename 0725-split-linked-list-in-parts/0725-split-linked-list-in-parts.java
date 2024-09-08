@@ -34,6 +34,7 @@ class Solution {
                     count++;
                     remInc = true;
                     rem--;
+                    continue;
                 }
                 ans[index] = last;
                 last = temp.next;
