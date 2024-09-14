@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2155-find-missing-observations) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Matrix
 |  |
 | ------- |
@@ -78,8 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Counting
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1786-count-the-number-of-consistent-strings) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
