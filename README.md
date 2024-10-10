@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0906-walking-robot-simulation) |
+| [1253-sort-the-matrix-diagonally](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1253-sort-the-matrix-diagonally) |
 | [1435-xor-queries-of-a-subarray](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1253-sort-the-matrix-diagonally](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1253-sort-the-matrix-diagonally) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Sorting
+|  |
+| ------- |
+| [1253-sort-the-matrix-diagonally](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1253-sort-the-matrix-diagonally) |
 <!---LeetCode Topics End-->
