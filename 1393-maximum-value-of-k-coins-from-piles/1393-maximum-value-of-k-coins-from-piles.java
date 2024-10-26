@@ -12,7 +12,7 @@ class Solution {
         //         preSum[i][j] = sum;
         //     }
         // }
-        int [][] dp = new int[1001][10001];
+        int [][] dp = new int[n+1][k+1];
         return calculateMax(piles, k, 0, dp);
     }
 
