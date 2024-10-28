@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0906-walking-robot-simulation](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0906-walking-robot-simulation) |
 | [1253-sort-the-matrix-diagonally](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1253-sort-the-matrix-diagonally) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1393-maximum-value-of-k-coins-from-piles) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2155-find-missing-observations](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Linked List
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0155-min-stack) |
 ## Design
 |  |
