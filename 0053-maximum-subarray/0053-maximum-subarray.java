@@ -9,8 +9,8 @@ class Solution {
                 sum = 0;
             }
         }
-        if(sum!=0)
-        maxi = Math.max(maxi, sum);
+        // if(sum!=0)
+        // maxi = Math.max(maxi, sum);
         return maxi;
     }
 }
