@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0906-walking-robot-simulation](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0906-walking-robot-simulation) |
 | [1253-sort-the-matrix-diagonally](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1253-sort-the-matrix-diagonally) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1393-maximum-value-of-k-coins-from-piles) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0073-set-matrix-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0778-reorganize-string](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0778-reorganize-string) |
 | [0906-walking-robot-simulation](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0906-walking-robot-simulation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1786-count-the-number-of-consistent-strings) |
