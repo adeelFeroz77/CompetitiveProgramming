@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0022-generate-parentheses) |
 | [0778-reorganize-string](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0778-reorganize-string) |
+| [0812-rotate-string](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0812-rotate-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2580-circular-sentence](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2580-circular-sentence) |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0053-maximum-subarray) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
