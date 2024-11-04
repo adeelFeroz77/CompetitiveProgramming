@@ -10,12 +10,11 @@ class Solution {
                 count++;
                 continue;
             }
-            sb.append(count + "" + prev);
+            sb.append(count).append(prev);
             prev = c;
             count = 1;
         }
-        sb.append(count + "" + prev);
+        sb.append(count).append(prev);
         return sb.toString();
-
     }
 }
