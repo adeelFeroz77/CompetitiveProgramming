@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2155-find-missing-observations) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3291-find-if-array-can-be-sorted](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3291-find-if-array-can-be-sorted) |
 ## Matrix
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3291-find-if-array-can-be-sorted](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-reorganize-string](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0778-reorganize-string) |
 | [1253-sort-the-matrix-diagonally](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1253-sort-the-matrix-diagonally) |
+| [3291-find-if-array-can-be-sorted](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
 |  |
 | ------- |
