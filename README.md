@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2155-find-missing-observations](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0089-gray-code) |
 | [1435-xor-queries-of-a-subarray](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1940-maximum-xor-for-each-query) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0022-generate-parentheses) |
+| [0089-gray-code](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0089-gray-code) |
 ## Divide and Conquer
 |  |
 | ------- |
