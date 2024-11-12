@@ -9,7 +9,7 @@ class Solution {
             int key = items[i][0];
             int val = items[i][1];
             if(last > val){
-                map.put(key, last);
+                continue;
             }else{
                 map.put(key,val);
                 last = val;
