@@ -1,17 +1,14 @@
 class Solution {
     public boolean checkIfExist(int[] arr) {
-        // brute force
+        //optimized approach using HashSet
         int n = arr.length;
+        Set<Integer> set = new HashSet<>();
         for(int i=0; i<n; i++){
-            for(int j=0; j<n; j++){
-                if(i != j){
-                    int x = arr[i];
-                    int y = arr[j];
-                    if(x*2 == y || (y%2==0 && y/2 == x)){
-                        return true;
-                    }
-                }
+            int num = arr[i];
+            if(set.contains(num*2) || (num%2==0 && set.contains(num/2))){
+                return true;
             }
+            set.add(num);
         }
         return false;
     }
