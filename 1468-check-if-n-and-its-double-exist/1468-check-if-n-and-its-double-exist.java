@@ -1,6 +1,5 @@
 class Solution {
     public boolean checkIfExist(int[] arr) {
-        Arrays.sort(arr);
         // brute force
         int n = arr.length;
         for(int i=0; i<n; i++){
