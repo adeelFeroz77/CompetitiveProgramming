@@ -7,7 +7,7 @@ class Solution {
                 if(i != j){
                     int x = arr[i];
                     int y = arr[j];
-                    if(x*2 == y || (y%2==0 && y/2 == x) || (x%2==0 && x/2 == y)){
+                    if(x*2 == y || (y%2==0 && y/2 == x)){
                         return true;
                     }
                 }
