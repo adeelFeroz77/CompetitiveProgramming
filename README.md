@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2155-find-missing-observations) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2232-adding-spaces-to-a-string](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2232-adding-spaces-to-a-string) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2716-prime-subtraction-operation) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2155-find-missing-observations) |
+| [2232-adding-spaces-to-a-string](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2232-adding-spaces-to-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0812-rotate-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2232-adding-spaces-to-a-string](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3451-string-compression-iii) |
@@ -211,5 +214,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2232-adding-spaces-to-a-string](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2232-adding-spaces-to-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2699-count-the-number-of-fair-pairs) |
 <!---LeetCode Topics End-->
