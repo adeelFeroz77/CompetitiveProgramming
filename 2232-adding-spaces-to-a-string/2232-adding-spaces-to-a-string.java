@@ -5,7 +5,7 @@ class Solution {
         char [] arr = new char[n+m];
 
         for(int i=0, j=0; i<n; i++){
-            if(j<m && spaces[j]+j == i+j){
+            if(j<m && spaces[j] == i){
                 arr[i+j] = ' ';
                 j++;
             }
