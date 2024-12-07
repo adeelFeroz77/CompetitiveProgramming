@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1940-maximum-xor-for-each-query](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0074-search-a-2d-matrix) |
 | [0907-koko-eating-bananas](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0907-koko-eating-bananas) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
