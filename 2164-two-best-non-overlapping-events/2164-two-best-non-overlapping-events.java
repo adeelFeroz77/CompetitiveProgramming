@@ -1,28 +1,39 @@
 class Solution {
     public int maxTwoEvents(int[][] events) {
-        Arrays.sort(events, (a, b) -> a[0] - b[0]);
+        Arrays.sort(events, (a,b) -> a[0] - b[0]);
         int[][] dp = new int[events.length][3];
         for (int[] d: dp)
             Arrays.fill(d, -1);
-        return dfs(events, 0, 0, dp);
+        return solve(0, 0, events, dp);
     }
-    int dfs(int[][] events, int idx, int cnt, int[][] dp) {
-        if (cnt == 2 || idx >= events.length)
+
+    public static int solve(int index, int k, int [][] events, int [][] dp){
+        if(index >= events.length){
             return 0;
-        if (dp[idx][cnt] == -1) {
-            int end = events[idx][1];
-            int lo = idx + 1, hi = events.length - 1;
-            while (lo < hi) {
-                int mid = lo + ((hi - lo)>>1);
-                if (events[mid][0] > end)
-                    hi = mid;
-                else
-                    lo = mid + 1;
-            }
-            int include = events[idx][2] + (lo < events.length && events[lo][0] > end ? dfs(events, lo, cnt + 1, dp) : 0);
-            int exclude = dfs(events, idx + 1, cnt, dp);
-            dp[idx][cnt] = Math.max(include, exclude);
         }
-        return dp[idx][cnt];
+        if(k == 2){
+            return 0;
+        }
+        if(dp[index][k] != -1){
+            return dp[index][k];
+        }
+        int endTime = events[index][1];
+
+        int left = index+1, right = events.length-1;
+        while(left < right){
+            int mid = (left + right) /2 ;
+            if(events[mid][0] > endTime){
+                right = mid;
+            }else{
+                left = mid +1;
+            }
+        }
+
+        int pick = events[index][2] + (left < events.length && events[left][0] > endTime ? solve(left, k+1, events, dp) : 0);
+
+        int notPick = solve(index+1, k, events, dp);
+
+        dp[index][k] = Math.max(pick, notPick);
+        return dp[index][k];
     }
 }
