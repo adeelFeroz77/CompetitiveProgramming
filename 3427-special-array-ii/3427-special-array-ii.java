@@ -10,7 +10,6 @@ class Solution {
             arr[i] = val;
         }
         boolean [] ans = new boolean[queries.length];
-        System.out.println(Arrays.toString(arr));
         for(int i=0; i<queries.length; i++){
             ans[i] = arr[queries[i][0]] == arr[queries[i][1]];
         }
