@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3427-special-array-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3427-special-array-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2716-prime-subtraction-operation) |
+| [3427-special-array-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3427-special-array-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1940-maximum-xor-for-each-query](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3427-special-array-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3427-special-array-ii) |
 ## String
 |  |
 | ------- |
