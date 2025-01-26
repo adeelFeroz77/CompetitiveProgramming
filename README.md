@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1484-linked-list-in-binary-tree) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -237,4 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2699-count-the-number-of-fair-pairs) |
+## Graph
+|  |
+| ------- |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Topological Sort
+|  |
+| ------- |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
