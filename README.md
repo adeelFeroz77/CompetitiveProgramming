@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0812-rotate-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2232-adding-spaces-to-a-string](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0906-walking-robot-simulation) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Math
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-reorganize-string](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0778-reorganize-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Brainteaser
 |  |
 | ------- |
