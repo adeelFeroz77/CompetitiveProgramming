@@ -1,8 +1,6 @@
 class Solution {
     public boolean areAlmostEqual(String s1, String s2) {
         int n = s1.length();
-        Map<Character, Character> map = new HashMap<>();
-
         int u = -1;
         int v = -1;
 
