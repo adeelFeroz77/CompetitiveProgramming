@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3429-special-array-i) |
+| [3483-alternating-groups-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3483-alternating-groups-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3483-alternating-groups-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3483-alternating-groups-ii) |
 ## Recursion
 |  |
 | ------- |
