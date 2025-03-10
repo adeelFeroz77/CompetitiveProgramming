@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3451-string-compression-iii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Math
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3483-alternating-groups-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Recursion
 |  |
 | ------- |
