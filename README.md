@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2716-prime-subtraction-operation) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3291-find-if-array-can-be-sorted) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3429-special-array-i) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3291-find-if-array-can-be-sorted](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3291-find-if-array-can-be-sorted) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3394-minimum-array-end) |
 ## Counting
@@ -281,8 +283,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Union Find
+|  |
+| ------- |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 <!---LeetCode Topics End-->
