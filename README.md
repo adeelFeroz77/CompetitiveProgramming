@@ -155,11 +155,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0199-binary-tree-right-side-view) |
 | [1484-linked-list-in-binary-tree](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1484-linked-list-in-binary-tree) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2793-count-the-number-of-complete-components](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0199-binary-tree-right-side-view) |
 | [1484-linked-list-in-binary-tree](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1484-linked-list-in-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2793-count-the-number-of-complete-components](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
@@ -291,5 +294,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 <!---LeetCode Topics End-->
