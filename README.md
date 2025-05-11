@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0907-koko-eating-bananas) |
 | [1253-sort-the-matrix-diagonally](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1253-sort-the-matrix-diagonally) |
+| [1293-three-consecutive-odds](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1293-three-consecutive-odds) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1435-xor-queries-of-a-subarray](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1468-check-if-n-and-its-double-exist) |
