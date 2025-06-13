@@ -155,11 +155,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1484-linked-list-in-binary-tree) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2793-count-the-number-of-complete-components](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2793-count-the-number-of-complete-components) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1484-linked-list-in-binary-tree) |
 ## Number Theory
 |  |
