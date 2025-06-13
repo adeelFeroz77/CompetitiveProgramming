@@ -15,25 +15,30 @@
  */
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
-        Map<Integer, Integer> map = new HashMap<>();
-        traverse(root, 1, map);
         List<Integer> ans = new ArrayList<>();
-        
-        int i = 1;
-        while(map.containsKey(i)){
-            ans.add(map.get(i));
-            i++;
-        }
+        Queue<TreeNode> q = new LinkedList<>();
+        q.add(root);
 
+        while(!q.isEmpty()){
+            int n = q.size();
+            TreeNode node = null;
+            while(n> 0){
+                node = q.poll();
+                if(node == null){
+                    break;
+                }
+                if(node.left != null){
+                    q.add(node.left);
+                }
+                if(node.right != null){
+                    q.add(node.right);
+                }
+                n--;
+            }
+            if(node != null){
+            ans.add(node.val);
+            }
+        }
         return ans;
-    }
-
-    public void traverse(TreeNode node, int level, Map<Integer, Integer> map){
-        if(node == null){
-            return;
-        }
-        map.put(level, node.val);
-        traverse(node.left, level+1, map);
-        traverse(node.right, level+1, map);
     }
 }
