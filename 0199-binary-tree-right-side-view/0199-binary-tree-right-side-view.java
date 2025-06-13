@@ -14,31 +14,23 @@
  * }
  */
 class Solution {
+
+    public void traverse(TreeNode node, int level, List<Integer> ans){
+        if(node == null){
+            return;
+        }
+
+        if(ans.size() < level){
+            ans.add(node.val);
+        }
+
+        traverse(node.right, level+1, ans);
+        traverse(node.left, level+1, ans);
+    }
+
     public List<Integer> rightSideView(TreeNode root) {
         List<Integer> ans = new ArrayList<>();
-        Queue<TreeNode> q = new LinkedList<>();
-        q.add(root);
-
-        while(!q.isEmpty()){
-            int n = q.size();
-            TreeNode node = null;
-            while(n> 0){
-                node = q.poll();
-                if(node == null){
-                    break;
-                }
-                if(node.left != null){
-                    q.add(node.left);
-                }
-                if(node.right != null){
-                    q.add(node.right);
-                }
-                n--;
-            }
-            if(node != null){
-            ans.add(node.val);
-            }
-        }
+        traverse(root, 1, ans);
         return ans;
     }
 }
