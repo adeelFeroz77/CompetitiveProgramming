@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0794-swim-in-rising-water](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0794-swim-in-rising-water) |
 | [0906-walking-robot-simulation](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0907-koko-eating-bananas) |
 | [1253-sort-the-matrix-diagonally](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1253-sort-the-matrix-diagonally) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0074-search-a-2d-matrix) |
+| [0794-swim-in-rising-water](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0794-swim-in-rising-water) |
 | [1253-sort-the-matrix-diagonally](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1253-sort-the-matrix-diagonally) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0074-search-a-2d-matrix) |
+| [0794-swim-in-rising-water](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0907-koko-eating-bananas) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0332-reconstruct-itinerary) |
+| [0794-swim-in-rising-water](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0794-swim-in-rising-water) |
 | [1484-linked-list-in-binary-tree](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1484-linked-list-in-binary-tree) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2793-count-the-number-of-complete-components](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2793-count-the-number-of-complete-components) |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0199-binary-tree-right-side-view) |
+| [0794-swim-in-rising-water](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0794-swim-in-rising-water) |
 | [1484-linked-list-in-binary-tree](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1484-linked-list-in-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -240,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0778-reorganize-string) |
+| [0794-swim-in-rising-water](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2164-two-best-non-overlapping-events](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2164-two-best-non-overlapping-events) |
 ## Dynamic Programming
@@ -319,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0794-swim-in-rising-water) |
 | [1706-min-cost-to-connect-all-points](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1706-min-cost-to-connect-all-points) |
 | [2793-count-the-number-of-complete-components](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
