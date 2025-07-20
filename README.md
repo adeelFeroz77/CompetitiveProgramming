@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1706-min-cost-to-connect-all-points](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1706-min-cost-to-connect-all-points) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0332-reconstruct-itinerary) |
+| [1706-min-cost-to-connect-all-points](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1706-min-cost-to-connect-all-points) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2793-count-the-number-of-complete-components](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -317,10 +319,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1706-min-cost-to-connect-all-points) |
 | [2793-count-the-number-of-complete-components](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Eulerian Circuit
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0332-reconstruct-itinerary) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
