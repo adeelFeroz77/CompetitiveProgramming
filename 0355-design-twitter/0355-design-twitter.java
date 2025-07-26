@@ -1,20 +1,19 @@
 class Twitter {
 
-    List<Tweet> tweetPool;
     Map<Integer, User> userMap;
+    int timestamp = 0;
 
     public Twitter() {    
-        tweetPool = new ArrayList<>();
         userMap = new HashMap<>();
     }
     
     public void postTweet(int userId, int tweetId) {
-        Tweet tweet = new Tweet(userId, tweetId);
-        tweetPool.add(tweet);
-
+        User user = userMap.get(userId);
         if(!userMap.containsKey(userId)){
-            userMap.put(userId, new User(userId));
+            user = new User(userId);
+            userMap.put(userId, user);
         }
+        user.addTweet(tweetId, timestamp++);
     }
     
     public List<Integer> getNewsFeed(int userId) {
@@ -24,13 +23,19 @@ class Twitter {
             user = new User(userId);
             userMap.put(userId, user);
         }
-        for(int i=tweetPool.size()-1; i>=0 && tweets.size()<10; i--){
-            Tweet tweet = tweetPool.get(i);
-            if(tweet.userId == user.id || user.followers.contains(tweet.userId)){
-                tweets.add(tweet.tweetId);
-            }
+        
+        PriorityQueue<Tweet> pq = new PriorityQueue<>((a,b) -> b.timestamp - a.timestamp);
+        pq.addAll(user.tweets);
+        for(Integer id: user.followers){
+            pq.addAll(getTweetsByUserId(id));
         }
+
+        while(!pq.isEmpty() && tweets.size() < 10){
+            tweets.add(pq.poll().tweetId);
+        }
+
         return tweets;
+
     }
     
     public void follow(int followerId, int followeeId) {
@@ -50,25 +55,40 @@ class Twitter {
         User user = userMap.get(followerId);
         user.followers.remove(followeeId);
     }
+
+    private List<Tweet> getTweetsByUserId(int userId){
+        if(!userMap.containsKey(userId)){
+            return new ArrayList<>();
+        }
+        return userMap.get(userId).tweets;
+    }
 }
 
 class User {
     int id;
     Set<Integer> followers;
+    List<Tweet> tweets;
 
     User(int id){
         this.id = id;
         this.followers = new HashSet<>();
+        this.tweets = new ArrayList<>();
+    }
+
+    void addTweet(int tweetId, int timestamp){
+        tweets.add(new Tweet(this.id, tweetId, timestamp));
     }
 }
 
 class Tweet {
     int tweetId;
     int userId;
+    int timestamp;
 
-    Tweet(int userId, int tweetId) {
+    Tweet(int userId, int tweetId, int timestamp) {
         this.userId = userId;
         this.tweetId = tweetId;
+        this.timestamp = timestamp;
     }
 }
 
