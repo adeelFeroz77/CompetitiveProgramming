@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0567-permutation-in-string) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0021-merge-two-sorted-lists) |
 | [0146-lru-cache](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0206-reverse-linked-list) |
+| [0355-design-twitter](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0355-design-twitter) |
 | [0725-split-linked-list-in-parts](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1484-linked-list-in-binary-tree) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0355-design-twitter) |
 | [0778-reorganize-string](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0778-reorganize-string) |
 | [0794-swim-in-rising-water](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0155-min-stack) |
+| [0355-design-twitter](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0355-design-twitter) |
 ## Backtracking
 |  |
 | ------- |
