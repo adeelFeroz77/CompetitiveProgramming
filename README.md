@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0146-lru-cache](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0567-permutation-in-string) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0206-reverse-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1484-linked-list-in-binary-tree) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0155-min-stack) |
 ## Backtracking
 |  |
@@ -337,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1706-min-cost-to-connect-all-points) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
