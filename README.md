@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3429-special-array-i) |
 | [3483-alternating-groups-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3483-alternating-groups-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3291-find-if-array-can-be-sorted) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Greedy
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2716-prime-subtraction-operation) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
