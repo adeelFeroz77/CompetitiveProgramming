@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3429-special-array-i) |
 | [3483-alternating-groups-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3483-alternating-groups-ii) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Matrix
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2551-apply-operations-to-an-array) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3427-special-array-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3427-special-array-ii) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3616-make-array-elements-equal-to-zero) |
 ## String
 |  |
 | ------- |
