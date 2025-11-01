@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3429-special-array-i) |
 | [3483-alternating-groups-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3483-alternating-groups-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2308-divide-array-into-equal-pairs) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Math
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/1484-linked-list-in-binary-tree) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/adeelFeroz77/CompetitiveProgramming/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
 | ------- |
